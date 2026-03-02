@@ -27,7 +27,7 @@ This module focuses on preparing raw data so it can be used for analysis. I lear
 
 - Pivot tables and formulas
 I learned how to summarize and analyze large datasets quickly. Pivot tables help me group and aggregate data without complex coding. I also useD key formulas like VLOOKUP, IF, SUMIFS, and INDEX-MATCH. These tools make Excel a powerful analysis platform.
-- 
+
 - Data validation and formatting
 This topic taught me how to control data entry and improve accuracy. I created drop-down lists, set input rules, and prevent errors. Conditional formatting helps highlight trends and issues visually. Together, these techniques improve data quality and readability.
 
