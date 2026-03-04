@@ -123,3 +123,18 @@ Bootcamp-WorkBooks/
 This bootcamp strengthened my technical foundation in data analysis and enhanced my ability to work with real datasets, create insights, and present findings effectively.
 
 It also expanded my practical experience across Excel, SQL, BI tools, Python, and cloud technologies.
+
+Connect With Me
+
+Thank you for visiting my repository. If you would like to learn more about my work, explore my portfolio, or discuss collaboration and professional opportunities, please feel free to connect with me.
+
+## Portfolio Website
+Explore my full portfolio and projects:
+https://sites.google.com/view/delefatoba/home
+
+## GitHub Projects
+View additional code samples and project repositories:
+https://github.com/delecampit/Bootcamp-WorkBooks
+
+## Email
+delefatob@yahoo.co.uk
