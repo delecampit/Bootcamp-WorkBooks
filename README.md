@@ -124,7 +124,7 @@ This bootcamp strengthened my technical foundation in data analysis and enhanced
 
 It also expanded my practical experience across Excel, SQL, BI tools, Python, and cloud technologies.
 
-Connect With Me
+## Connect With Me
 
 Thank you for visiting my repository. If you would like to learn more about my work, explore my portfolio, or discuss collaboration and professional opportunities, please feel free to connect with me.
 
