@@ -1,11 +1,11 @@
-# 📊 Data Technician Skills Bootcamp – Portfolio  
+# Data Technician Skills Bootcamp – Portfolio  
 **LeapIT (Leep Group)**
 
 This repository contains my completed workbooks and practical exercises from the Data Technician Skills Bootcamp delivered by LeapIT.
 
 ---
 
-## 🚀 About the Bootcamp
+##  About the Bootcamp
 
 The Data Technician Skills Bootcamp provided hands-on training in:
 
@@ -19,9 +19,9 @@ The Data Technician Skills Bootcamp provided hands-on training in:
 
 ---
 
-## 🧠 What I Learned
+##  What I Learned
 
-### 📊 Excel & Data Fundamentals
+### Week 1: Excel & Data Fundamentals
 - Data cleaning and structuring
 This module focuses on preparing raw data so it can be used for analysis. I learned how to remove duplicates, fix formatting issues, and handle missing values. I also covered organizing data into structured tables. This made me understand that clean data is the foundation of all good analysis.
 
@@ -34,7 +34,7 @@ This topic taught me how to control data entry and improve accuracy. I created d
 <img width="736" height="815" alt="Week1_Excel" src="https://github.com/user-attachments/assets/06e22efa-6ffa-4281-b717-5051c7827e78" />
 
 
-### 📈 Power BI & Tableau
+### Week 2: Power BI & Tableau
 - Building interactive dashboards
 I learned how to turn data into interactive visual reports. This includes adding filters, slicers, drill-through features, and dynamic visuals. Dashboards allow users to explore insights without technical knowledge. The goal is to create intuitive and impactful business intelligence solutions.
 
@@ -53,7 +53,7 @@ Here I understand how to choose the right charts for different data types. I avo
 
 
 
-### 🗃️ SQL & Databases
+### Week 3: SQL & Databases
 - Writing SELECT queries
 This topic introduces the foundation of querying databases. I learned how to retrieve data from tables using SELECT statements. It covers selecting specific columns and retrieving all records. This is the starting point for all database analysis.
 
@@ -65,7 +65,7 @@ This module explains how databases are organized into tables and relationships. 
 <img width="791" height="939" alt="Week3_SQL Databases" src="https://github.com/user-attachments/assets/116a0f82-fefb-48e4-931f-2605696cccc9" />
 
 
-### ☁️ Azure Fundamentals
+### Week 5: Azure Fundamentals
 - Cloud data concepts
 This section introduces the basics of cloud computing and data storage. I learned how cloud platforms differ from on-premise systems. It covers scalability, availability, and cost efficiency. These concepts are key to modern data architecture.
 
@@ -78,7 +78,7 @@ This topic explains how data flows across cloud services. I learned learn about 
 <img width="936" height="601" alt="Week5_Azure" src="https://github.com/user-attachments/assets/ffcd05c9-3abf-45f1-9d0b-d9df46e59a34" />
 
 
-### 🐍 Python for Data
+### Week 6: Python for Data
 - Basic scripting
 This module introduces Python syntax and core programming concepts. I learned about variables, loops, and functions. The focus is on writing simple, reusable scripts. This forms the base for data automation tasks.
 
@@ -93,7 +93,7 @@ This section teaches how to automate repetitive tasks using Python. I learned ho
 
 ---
 
-## 📂 Repository Structure
+##  Repository Structure
 Bootcamp-WorkBooks/
 │
 ├── Week1_Excel
@@ -106,7 +106,7 @@ Bootcamp-WorkBooks/
 
 ---
 
-## 🎯 Skills Gained
+##  Skills Gained
 
 - Data analysis and interpretation
 - Dashboard development
@@ -118,7 +118,7 @@ Bootcamp-WorkBooks/
 
 ---
 
-## 💡 Outcome
+##  Outcome
 
 This bootcamp strengthened my technical foundation in data analysis and enhanced my ability to work with real datasets, create insights, and present findings effectively.
 
